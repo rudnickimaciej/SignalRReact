@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.myButton
+{
+  width: 100px;
+  height:100px;
+  background-color: white;
+  display: inline-block;
+
+}
+.block
+{
+  width: 200px;
+  height:200px;
+  background-color: grey;
+  display: inline-block;
+  margin:5px;
+}
